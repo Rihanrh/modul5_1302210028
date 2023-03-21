@@ -13,7 +13,7 @@ namespace modul5_1302210028
             dynamic a= input1;
             dynamic b= input2;
             dynamic c= input3;
-            return a+b+c;
+            dynamic jumlah = a+b+c;
         }
     }
 }
