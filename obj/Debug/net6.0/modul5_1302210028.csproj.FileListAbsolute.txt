@@ -1,0 +1,15 @@
+D:\modul5_1302210028\bin\Debug\net6.0\modul5_1302210028.exe
+D:\modul5_1302210028\bin\Debug\net6.0\modul5_1302210028.deps.json
+D:\modul5_1302210028\bin\Debug\net6.0\modul5_1302210028.runtimeconfig.json
+D:\modul5_1302210028\bin\Debug\net6.0\modul5_1302210028.dll
+D:\modul5_1302210028\bin\Debug\net6.0\modul5_1302210028.pdb
+D:\modul5_1302210028\obj\Debug\net6.0\modul5_1302210028.csproj.AssemblyReference.cache
+D:\modul5_1302210028\obj\Debug\net6.0\modul5_1302210028.GeneratedMSBuildEditorConfig.editorconfig
+D:\modul5_1302210028\obj\Debug\net6.0\modul5_1302210028.AssemblyInfoInputs.cache
+D:\modul5_1302210028\obj\Debug\net6.0\modul5_1302210028.AssemblyInfo.cs
+D:\modul5_1302210028\obj\Debug\net6.0\modul5_1302210028.csproj.CoreCompileInputs.cache
+D:\modul5_1302210028\obj\Debug\net6.0\modul5_1302210028.dll
+D:\modul5_1302210028\obj\Debug\net6.0\refint\modul5_1302210028.dll
+D:\modul5_1302210028\obj\Debug\net6.0\modul5_1302210028.pdb
+D:\modul5_1302210028\obj\Debug\net6.0\modul5_1302210028.genruntimeconfig.cache
+D:\modul5_1302210028\obj\Debug\net6.0\ref\modul5_1302210028.dll
